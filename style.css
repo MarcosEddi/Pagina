@@ -1,0 +1,61 @@
+
+
+#logo{
+	background-color: #0000CD;
+	float: left;
+	position: absolute;
+	top:47px;
+	left:105px;
+	width: 277px;
+	height: 102px;
+
+}
+
+#logo_mini{
+	background: #4169E1; 
+	float: right;
+	position: relative;	
+	height: 50px;
+}
+
+#directorio{
+	background: #0000CD;
+	float: right;
+	position: relative;	
+	height: 50px;
+
+}
+
+
+
+aside#izq{
+	background-color: #0000CD;
+	/*position: absolute;*/
+	left: 120;
+	width: 200px;
+	height: 575px;	
+}
+section {
+	background-color: white;
+	height: 200px;
+}
+
+.btns{
+	
+}
+
+
+
+
+
+footer {
+	text-align: center;
+	position: relative;
+	background-color: #708090;
+	height: 100px;
+	left: 120;
+	width: 1043px;
+	text-align: center;
+	float: right;
+	
+}
