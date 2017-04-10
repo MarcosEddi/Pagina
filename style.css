@@ -44,7 +44,12 @@ section {
 	
 }
 
+#btneditar{
+	border-radius: 5px;
+	border-bottom-color: white;
+	border-style: solid;
 
+}
 
 
 
